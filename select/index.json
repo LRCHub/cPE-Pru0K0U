@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "好きな人の好きな人になりたいです",
+  "base_artist": "さめざめ",
+  "createdAt": "2026-02-07T21:59:06.576857Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きな人の好きな人になりたいです",
+      "artist": "さめざめ",
+      "has_synced": false,
+      "path": "select/pl_01_好きな人の好きな人になりたいです_さめざめ.txt"
+    }
+  ]
+}
